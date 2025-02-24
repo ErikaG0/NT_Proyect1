@@ -1,0 +1,9 @@
+#cube{
+    margin-top: 10px !important;
+    /*background: black !important;*/
+    height: 300px !important;
+}
+#cube-inside{
+    height: 200px !important;
+    margin-top: -40px !important;
+}
